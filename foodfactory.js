@@ -1,5 +1,5 @@
 import print from "./print.js";
-import ingridient from "./ingredient.js";
+import Ingridient from "./ingredient.js";
 
 export default class FoodFactory {
 
